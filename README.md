@@ -1,7 +1,7 @@
 # Carousel
 Its still in the Pre-alpha phase. Much more to be done! :D
  
-  
+   
   
   [![Build Status](https://secure.travis-ci.org/zendframework/zend-authentication.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-authentication) [![Coverage Status](https://coveralls.io/repos/zendframework/zend-authentication/badge.svg?branch=master)](https://coveralls.io/r/zendframework/zend-authentication?branch=master) [![Latest Stable Version](https://poser.pugx.org/zendframework/zend-authentication/v/stable)](https://packagist.org/packages/zendframework/zend-authentication) [![Total Downloads](https://poser.pugx.org/zendframework/zend-authentication/downloads)](https://packagist.org/packages/zendframework/zend-authentication) [![Latest Unstable Version](https://poser.pugx.org/zendframework/zend-authentication/v/unstable)](https://packagist.org/packages/zendframework/zend-authentication) 
 
