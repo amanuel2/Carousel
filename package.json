@@ -1,0 +1,25 @@
+{
+   "name": "node-mysql",
+   "version": "0.0.1",
+    "description": "angularjs-dependencies-wrapper",
+   "main": "index.js",
+   "dependencies": {
+     "angular": "^1.4.9",
+     "angular-route": "^1.4.9",
+     "angular-cookies" : "1.4.9",
+     "firebase": "^2.2.4",
+     "angular-messages": "^1.4.9",
+     "angular-sanitize": "^1.4.9"
+   },
+   "repository": {
+    "type": "git",
+    "url": ""
+   },
+    "engines": {
+    "node": ">= 0.10.x"
+   },
+   "author": "Amanuel <abogale2@gmail.com>",
+   "license": "MIT"
+   }
+   
+ }
