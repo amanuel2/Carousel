@@ -17,6 +17,10 @@ lovely code editor..
 Remember this is in Pre-Alpha phase! There is still much more stuff to be done!
 Learn more about the software relase cycle [Here][1]
 
+[![enter image description here][2]][2]
+
+
+  [2]: http://i.stack.imgur.com/A0y7D.png
 
   [1]: https://en.wikipedia.org/wiki/Software_release_life_cycle
 -----------------------------------------------------------------------------------------------
