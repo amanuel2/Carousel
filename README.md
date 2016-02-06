@@ -1,4 +1,4 @@
-# Carousel
+# Carousel v0.0.2
 Its still in the Pre-alpha phase. Much more to be done! :D
   [![Build Status](https://codeship.com/projects/fb788530-ade2-0133-313e-42dfb775ebd5/status?branch=master)]
 
