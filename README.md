@@ -10,8 +10,8 @@ Make a folder, then using your Command Prompt type in:
 
 ##### $ git clone https://github.com/amanuel2/Carousel.git
 
-This will clone Carousel work for you so you can see it on your folder. To run it you just
-have to have cookies enabled and run it from your file. 
+This will clone Carousel work for you so you can see it on your folder.And also 
+have cookies enabled On your site. Its in the settings of your browser.
 
 And then run
 ##### npm install
