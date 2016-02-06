@@ -127,7 +127,7 @@ app.controller('loginController', ["$scope", "AuthService", "Ref", "$rootScope",
                     if (error.code === "TRANSPORT_UNAVAILABLE") {
                         // fall-back to browser redirects, and pick up the session
                         // automatically when we come back to the origin page
-                        authGithub.authWithOAuthRedirect("google", function(error) {
+                        authGithub.authWithOAuthRedirect("github", function(error) {
                             /* ... */
                             if (error)
                                 console.error(error)
