@@ -1,5 +1,5 @@
 {
- 
+
    "name": "Carousel",
    "version": "0.0.2",
    "description": "The Evolution of chat.",
@@ -7,13 +7,13 @@
    "dependencies": {
      "angular": "^1.4.9",
      "angular-route": "^1.4.9",
-     "angular-cookies" : "1.4.9",
+     "angular-cookies" : "^1.4.9",
      "firebase": "^2.2.4",
      "angular-messages": "^1.4.9",
      "angular-sanitize": "^1.4.9",
      "jquery-latest": "^1.9.0",
      "sweetalert": "^1.0.0",
-     "client-oauth2": "^2.0",
+     "client-oauth2": "^1.0.0",
      "firebase-tools":"^2.2.1",
      "bootstrap" : "^3.3.4"
    },
@@ -34,7 +34,7 @@
    "bugs": {
     "url": "https://github.com/amanuel2/Carousel/issues"
    }
-   
-   
-   
+
+
+
  }
