@@ -38,6 +38,7 @@ Learn more about the software relase cycle [Here][1]
   
   [3]:https://ide.c9.io/amanuel2/chattapp
 -----------------------------------------------------------------------------------------------
+##CopyRight
 
 ######LICENSE: MIT
 
