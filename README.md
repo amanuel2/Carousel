@@ -11,11 +11,19 @@ Make a folder, then using your Command Prompt type in:
 ##### $ git clone https://github.com/amanuel2/Carousel.git
 
 This will clone Carousel work for you so you can see it on your folder. To run it you just
-have to have cookies enabled and run it from your file. Feel free to make edits from your
-lovely code editor..
+have to have cookies enabled and run it from your file. 
 
-#### If you want to see this live now go here(But this will change since this is where i am working on)! :  https://preview.c9users.io/amanuel2/chattapp/workspace/index.html?_c9_id=livepreview6&_c9_host=https://ide.c9.io#/ 
+And then run
+##### npm install
+While bieng on your / dir in the folder. And also Run
+##### bower install
+That will install the components neccessary to run this program!
 
+## Contrubution
+For contribution: go [here][3](But this will change since this is where i am working on)!. And then when your on click the top bar to request acess. When request is granted you will have the privilge to read/write!
+
+
+##Conclusion
 Remember this is in Pre-Alpha phase! There is still much more stuff to be done!
 Learn more about the software relase cycle [Here][1]
 
@@ -25,6 +33,8 @@ Learn more about the software relase cycle [Here][1]
   [2]: http://i.stack.imgur.com/A0y7D.png
 
   [1]: https://en.wikipedia.org/wiki/Software_release_life_cycle
+  
+  [3]:https://ide.c9.io/amanuel2/chattapp
 -----------------------------------------------------------------------------------------------
 
 ######LICENSE: MIT
