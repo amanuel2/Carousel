@@ -1,0 +1,23 @@
+{
+  "name": "Carousel",
+  "homepage": "https://github.com/amanuel2/Carousel.git",
+  "authors": [
+    "Amanuel <abogale2@gmail.com>"
+  ],
+  "description": "The Evolution of chat.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.1",
+    "angular-ui-router": "~0.2.15"
+  }
+}
